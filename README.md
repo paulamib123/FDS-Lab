@@ -1,2 +1,2 @@
 # FDS-Lab
-FDS Lab Programs for Sem 3
+Fundamentals of Data Structures Lab Programs for Sem 3
